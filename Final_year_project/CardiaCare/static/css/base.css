@@ -1,0 +1,24 @@
+
+.img-fluid1{
+    padding-top: 10px;
+    animation-name: Nav;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes Nav{
+    0%{height:120px}
+    50%{height:132px}
+    100%{height:120px;}
+}
+
+/* h1 {
+    color: #999999;
+    font-family: arial, sans-serif;
+    font-size: 200px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    }
+.mylogo{
+    background-color:aqua;
+} */
